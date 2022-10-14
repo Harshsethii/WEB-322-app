@@ -6,9 +6,9 @@ Policy. No part * of this assignment has been copied manually or electronically 
 other source
 * (including 3rd party web sites) or distributed to other students.
 *
-* Name: iktaj singh 
-  Student ID: 121789218
-  Date:14s/09/2022
+* Name: Harsh Sethi
+  Student ID: 121889216
+  Date: 14/10/2022
 
 *
 * Online (cyclic) Link: https://cloudy-newt-tutu.cyclic.app/about
@@ -31,9 +31,9 @@ function onHttpStart(){
 }
 
 cloudinary.config({
-    cloud_name: 'dwslgxp7b',
-    api_key: '474295251232519',
-    api_secret: 'QsnKPtzL0UyxUabsJ4xrY1-iULs',
+    cloud_name: 'dbh1bwqlk',
+    api_key: '131489383184657',
+    api_secret: 'FFYxWTN0LH20vqMIc6pqHlnRNnw',
     secure: true
 });
 
