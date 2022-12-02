@@ -93,6 +93,7 @@ module.exports.checkUser = function(userData){
         .catch((err) =>{
             console.log(err);
             reject("Unable to find user: "+  userData.userName )
+        
         });
     });
 };
