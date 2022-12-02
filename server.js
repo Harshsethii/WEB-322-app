@@ -26,7 +26,7 @@ const streamifier = require('streamifier');
 const exphbs = require('express-handlebars');
 const stripJs = require('strip-js');
 var blogservice = require(__dirname + '/blog-service.js');
-var authData = require(__dirname + '/auth-Service.js');
+var authData = require(__dirname + '/auth-service.js');
 const clientSessions = require("client-sessions");
 
 var HTTP_PORT = process.env.PORT || 8080;
